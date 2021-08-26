@@ -1,0 +1,8 @@
+Problem:
+ This is going to be fun!
+  We will write a program that generates random number and asks the player to guess it. If the player's guess is higher then the actual number the program display " Lower number please" Similarly if the user's quess is too low, the program prints "Higher number please".
+
+When the user quesses the correct number, the program displays the number of quesses the player used to arrive at the number.
+
+hint:use loops
+use a random number generator
